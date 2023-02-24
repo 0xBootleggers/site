@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { themes } from '../styles/Color';
 import { H1 } from '../styles/Text';
 
 const Header = () => {
@@ -20,14 +19,6 @@ const Wrapper = styled.header`
   width: 100%;
   align-items: center;
   justify-content: center;
-
-  @media (min-width: 600px) {
-  }
-
-  @media (min-width: 800px) {
-  }
 `;
 
-const Organization = styled(H1)`
-  color: ${themes.dark.text1};
-`;
+const Organization = styled(H1)``;
