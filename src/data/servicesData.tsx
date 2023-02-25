@@ -12,6 +12,6 @@ export const services = [
   {
     title: 'Shaman Deployment',
     process:
-      'Enforce rules, write contracts, and summon the spirits for administering altered states of collaboration.',
+      'Write contracts, enforce rules, and summon the spirits for administering altered states of collaboration.',
   },
 ];

@@ -10,7 +10,7 @@ const Services = () => {
     <Section>
       <TextWrapper>
         <Title>DAO Services</Title>
-        <Description>We design, develop, and deploy custom DAOs</Description>
+        <Description>We design, develop, and deploy custom DAOs.</Description>
       </TextWrapper>
       <Cards>
         {services.map((service, index) => (
@@ -32,7 +32,7 @@ const Section = styled.section`
     max-width: 996px;
     margin: 0 auto;
     width: 100%;
-    padding-bottom: 120px;
+    padding-bottom: 360px;
   }
 `;
 
