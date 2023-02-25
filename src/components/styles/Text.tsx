@@ -41,3 +41,13 @@ export const MediumText = styled.p`
   line-height: 33px;
   color: ${themes.dark.text1};
 `;
+
+export const ButtonText = styled.p`
+  font-family: 'Stoke', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.08em;
+`;

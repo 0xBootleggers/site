@@ -29,7 +29,7 @@ const Section = styled.section`
   margin-top: 564px;
   position: relative;
   @media (min-width: 800px) {
-    max-width: 996px;
+    max-width: 612px;
     margin: 0 auto;
     width: 100%;
     padding-bottom: 324px;

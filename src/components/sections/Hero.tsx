@@ -30,6 +30,7 @@ const Section = styled.section`
 
   @media (min-width: 800px) {
     margin: 0 0 240px;
+    padding-top: 84px;
   }
 `;
 
@@ -80,6 +81,6 @@ const Description = styled(MediumText)`
   margin-top: 396px;
 
   @media (min-width: 800px) {
-    margin-top: 12px;
+    margin-top: 24px;
   }
 `;

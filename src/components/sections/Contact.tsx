@@ -11,7 +11,7 @@ const Contact = () => {
         <Title>Let’s Run It</Title>
         <Description>
           Tell us who told you about us on Telegram. Introduce what you are
-          working on to the group.
+          working on to the group. We will start the formula.
         </Description>
       </TextWrapper>
       <IconWrapper>
@@ -29,7 +29,7 @@ const Section = styled.section`
   margin-top: 564px;
   position: relative;
   @media (min-width: 800px) {
-    max-width: 996px;
+    max-width: 612px;
     margin: 0 auto;
     width: 100%;
     padding-bottom: 324px;

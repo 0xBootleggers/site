@@ -30,7 +30,8 @@ export const themes = {
   },
   dark: {
     text1: `white`,
-    text2: `rgba(255,255,255,0.7)`,
+    text2: `black`,
+    primary: `white`,
     backgroundColor: `#0A0A0A`,
     card: {
       backgroundColor: `rgba(25, 24, 63, 0.98)`,
