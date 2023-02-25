@@ -26,7 +26,11 @@ export default Hero;
 
 const Section = styled.section`
   overflow: hidden;
-  margin-top: 36px;
+  margin: 36px 0 636px;
+
+  @media (min-width: 800px) {
+    margin: 0 0 240px;
+  }
 `;
 
 const ContentWrapper = styled.div`

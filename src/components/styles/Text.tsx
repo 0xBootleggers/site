@@ -24,6 +24,15 @@ export const H2 = styled.h2`
   }
 `;
 
+export const H3 = styled.h3`
+  font-family: 'Stoke';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: ${themes.dark.text1};
+`;
+
 export const MediumText = styled.p`
   font-family: 'Alegreya';
   font-style: normal;
