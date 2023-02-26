@@ -26,7 +26,7 @@ export default Governed;
 const Section = styled.section`
   position: relative;
   display: grid;
-  padding-bottom: 240px;
+  padding-bottom: 144px;
 
   @media (min-width: 800px) {
     max-width: 996px;
