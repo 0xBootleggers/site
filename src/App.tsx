@@ -6,6 +6,7 @@ import Services from './components/sections/Services';
 import Contact from './components/sections/Contact';
 import About from './components/sections/About';
 import Governed from './Governed';
+import Footer from './components/sections/Footer';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -18,6 +19,7 @@ function App() {
       <Contact />
       <About />
       <Governed />
+      <Footer />
     </div>
   );
 }

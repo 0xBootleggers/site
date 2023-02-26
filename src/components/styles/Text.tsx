@@ -38,7 +38,7 @@ export const MediumText = styled.p`
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
-  line-height: 33px;
+  line-height: 32px;
   color: ${themes.dark.text1};
 `;
 
@@ -47,7 +47,8 @@ export const ButtonText = styled.p`
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
-  line-height: 30px;
+  line-height: 32px;
   text-align: center;
   letter-spacing: 0.08em;
+  color: ${themes.dark.text1};
 `;

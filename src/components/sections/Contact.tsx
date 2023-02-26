@@ -10,7 +10,7 @@ const Contact = () => {
       <TextWrapper>
         <Title>Let’s Run It</Title>
         <Description>
-          Tell us who told you about us on Telegram. Introduce what you are
+          Send Telegram to tell us who told you about us. Introduce what you are
           working on to the group. We will start the formula.
         </Description>
       </TextWrapper>
