@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
-import { MediumText } from './components/styles/Text';
+import { MediumText } from '../styles/Text';
 
-import baal from './assets/baal.svg';
-import Basic from './components/buttons/Basic';
+import baal from '../../assets/baal.svg';
+import Basic from '../buttons/Basic';
 
 const Governed = () => {
   return (

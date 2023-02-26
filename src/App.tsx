@@ -5,7 +5,7 @@ import Hero from './components/sections/Hero';
 import Services from './components/sections/Services';
 import Contact from './components/sections/Contact';
 import About from './components/sections/About';
-import Governed from './Governed';
+import Governed from './components/sections/Governed';
 import Footer from './components/sections/Footer';
 
 function App() {
