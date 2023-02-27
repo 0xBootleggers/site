@@ -52,6 +52,8 @@ const Baal = styled.img`
 const Description = styled(MediumText)`
   justify-self: center;
   padding-bottom: 36px;
+  font-size: 32px;
+  line-height: 48px;
 
   @media (min-width: 800px) {
     padding-bottom: 48px;

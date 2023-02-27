@@ -26,8 +26,14 @@ const Wrapper = styled.footer`
 `;
 
 const Text = styled(ButtonText)`
-  letter-spacing: 1.8px;
   font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 1.8px;
+
+  @media (min-width: 800px) {
+    font-size: 24px;
+    line-height: 32px;
+  }
 `;
 
 const Organization = styled(H1)`

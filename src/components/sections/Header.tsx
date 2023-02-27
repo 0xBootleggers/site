@@ -21,4 +21,8 @@ const Wrapper = styled.header`
   justify-content: center;
 `;
 
-const Organization = styled(H1)``;
+const Organization = styled(H1)`
+  @media (min-width: 800px) {
+    font-size: 48px;
+  }
+`;
